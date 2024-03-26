@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+
+h1 {
+  text-decoration: none;
+}
+
+#main {
+  height: 450px;
+  position: relative;
+  background-color: rgba(241, 243, 255, 1);
+}
+
